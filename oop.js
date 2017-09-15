@@ -10,7 +10,8 @@ class Mamalia{
         this.domesticated = domesticated;
         this.gestation = gestation;
 
-
+        // this is an implemetation of encapsulation
+        
         this._getLimbs = function(){
           return _limbs;
         }
